@@ -1,0 +1,20 @@
+/*RESETE CSS
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+ *{
+    MARGIN: 4px;;
+    PADDING: 2px;;
+    BOX-SIZING: BORDER-BOX;
+    background-color: aquamarine;
+    color: rgb(255, 0, 0);
+    font-family: "Protest Riot", sans-serif;
+    text-align: center;
+ }
+ img{
+    width: 200px;
+    height: 200
+    px;
+    
+ }
+ 
